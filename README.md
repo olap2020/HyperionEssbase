@@ -1,2 +1,2 @@
 # HyperionEssbase
-Essbase scripting coding examples
+Essbase script coding examples
