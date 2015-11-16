@@ -1,4 +1,4 @@
-//ESS_LOCALE English_UnitedStates.Latin1@Binary
+
 /*
 
 Notes: Dollar Amount is allocated from a single Cost Center (associated with single method) to multiple cost centers.Method(defined in Version dimension defines the relation between source and target cost centers.
